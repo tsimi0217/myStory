@@ -1,0 +1,11 @@
+c:\users\tasha\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.deps.json
+c:\users\tasha\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.runtimeconfig.json
+c:\users\tasha\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.runtimeconfig.dev.json
+c:\users\tasha\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.dll
+c:\users\tasha\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.pdb
+c:\users\tasha\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.csprojAssemblyReference.cache
+c:\users\tasha\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.csproj.CoreCompileInputs.cache
+c:\users\tasha\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.AssemblyInfoInputs.cache
+c:\users\tasha\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.AssemblyInfo.cs
+c:\users\tasha\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.dll
+c:\users\tasha\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.pdb
